@@ -18,7 +18,14 @@ CyberWatch is a Flask-based Network Security Monitoring Dashboard developed as p
 - GitHub
 
 ## Screenshots
-![Dashboard](Screenshots/CyberWatch Dashboard.png)
+### Dashboard
+![Dashboard](<Screenshots/Screenshots/CyberWatch Dashboard.png>)
+
+### Recent Security Events
+![Recent Security Events](<Screenshots/Screenshots/Recent Security Events.png>)
+
+### System Security Status
+![System Security Status](<Screenshots/Screenshots/System Security Status.png>)
 
 ## Author
 Lubanzi Fihla
